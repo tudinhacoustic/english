@@ -35,3 +35,49 @@ Part C
 6. Subject
 7. Brain
 8. Concentrated
+
+Part D
+1. Over
+2. Out
+3. Up
+4. Out
+5. Out
+6. Up
+7. Down
+8. Out
+
+Part E
+1. We learnt that poem by <u>heart</u> but I've forgotten it now.
+2. Are you in <u>favour</u> of teenagers leaving school at the age of sixteen?
+3. I thought the exam would be difficult bit, in <u>fact</u>, it was really easy.
+4. Many people, for <u>instance</u> my brother prefer to do something active rather than do homework.
+5. In <u>general</u>, the teacher at this school are really nice, but some are nicer than others!
+6. It's a good idea to start the final paragraph of your composition with the phrase <u>'In conclustion'</u>
+
+Part F
+1. Do you think you get a good <u>education</u> at your school?
+2. I'm a not an expert. I'm only a <u>beginner</u>
+3. The police are going to give Tracy an award for <u>bravery</u>.
+4. I'm writing in <u>reference</u> to your advertisement for a guitar teacher.
+5. I want <u>silence</u> at all times during the exam.
+6. Rupert is an <u>instructor</u> at a local extreme sports centre.
+7. I'm afraid that answer is <u>incorrect</u> so you haven't won today's top prize. What a shame!
+8. You don't understand <u>division</u>? Look! Twelve divided by four is three.
+It's easy!
+9. Actors have to <u>memorise</u> a lot of words when they are in a play.
+
+Part G
+1. You didn't cheat <u>in</u> the exam, did you?
+2. We're learning <u>about</u> dinosaurs at the moment at school.
+3. What's your opinion <u>about</u> children going to school at a very young age?
+4. I think you've confused astronomy <u>with</u> astrology - they're not the same!
+5. I hope Mr aziz doesn't ask me a question <u>about</u> the book because I haven't read it!
+6. I can't cope <u>with</u> all this homework I've got to do!
+
+Part H
+1. Sasha is really <u>talented at</u> tango dancing.
+2. Our teacher wasn't feeling well but She <u>continued with</u> the lesson.
+3. I <u>know about</u> designing clothes at all!
+4. I've been <u>helping Dan with</u> his homework because he couldn't do it on his own.
+5. No one <u>is capable of learning</u> all that in one day!
+6. I really hope you <u>succeed in finding</u> a solution to the problem.
