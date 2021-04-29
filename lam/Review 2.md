@@ -49,6 +49,6 @@
 38. of
 39. with
 40. on => with
-41. doing => with
-42. with => of/about
+41. with
+42. about
 43. in
