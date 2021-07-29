@@ -53,7 +53,7 @@ Part D
 3. Hoping - Doing
 4. Using
 5. Learning - Taking
-6. Doing - Archieving
+6. Doing - Achieving
 7. Making
 8. To play
 9. Telling
