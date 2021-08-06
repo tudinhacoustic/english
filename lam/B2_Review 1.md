@@ -2,18 +2,18 @@
 
 ## A
 1. does
-2. on
-3. with
+2. on => off
+3. with => going
 4. see
 5. are
-6. are
+6. are => have
 7. change
-8. finally
+8. finally => do
 9. from
 10. up
 11. is
-12. things
-13. so
+12. things => has
+13. so => means
 14. to
 15. up
 
@@ -29,11 +29,11 @@
 ## C
 23. had just got on
 24. have arrived Budapes for
-25. second time I visit
+25. second time I've visited
 26. catch up with
 27. keen on travelling
 28. at full speed
-29. in direction to
+29. in direction of
 30. regret not looking at
 
 ## D
@@ -42,12 +42,12 @@
 33. B
 34. D
 35. D
-36. A
+36. A => C
 
 ## E
 37. C
 38. A
 39. C
 40. D
-41. C
+41. C => B
 42. C
