@@ -17,10 +17,10 @@ Part A
 Part B
 1. Average
 2. Suit
-3. Put on
+3. Wear
 4. Top
 5. Supplies
-6. Dyed
+6. Painted
 7. Manufacture
 8. Costume
 
