@@ -6,7 +6,7 @@
 3. unfortunately
 4. knowledge
 5. equipment
-6. enjoyable
+6. enjoyable => enjoyment
 7. competition
 8. trainer
 9. opponents
@@ -29,7 +29,7 @@
 22. get used to
 23. had already run
 24. never used to spend
-25. takes up
+25. take up
 26. prefer playing
 27. no chance of you winning
 
